@@ -35,3 +35,7 @@ When using numpy > 2.0 version the scripts break. The data cleaning processes we
 # Ethics statement
 
 The data for this study was derived from MIMIC-IV, a comprehensive critical care database of patients admitted to the Beth Israel Deaconess Medical Center (BIDMC) in Boston, Massachusetts. The collection and de-identification processes for MIMIC-IV received full approval from both BIDMC and MIT institutional review boards (IRBs). According to the publication, patient consent requirements were waived since the research had no impact on clinical care and all data were fully de-identified. Given that MIMIC-IV is a publicly available research database, additional local IRB approval was not required for this research. All subsequent data handling, including pre-processing, analysis, and machine learning applications were conducted in adherence to the established MIMIC-IV usage guidelines and regulations.
+
+# References
+
+[MIMIC-IV on PhysioNet](https://physionet.org/content/mimiciv/3.0/)
