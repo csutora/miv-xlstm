@@ -1,0 +1,12 @@
+torch==2.5.0
+torchvision==0.20.0
+torchmetrics==1.5.1
+torcheval==0.07
+numpy<=1.26.4
+git+https://github.com/NX-AI/xlstm.git
+dask==2024.7.1
+tqdm==4.66.5
+scikit-learn==1.5.1
+pandas==2.2.2
+wandb==0.18.5
+ray[tune]==2.38.0
