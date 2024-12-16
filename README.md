@@ -38,4 +38,5 @@ The data for this study was derived from MIMIC-IV, a comprehensive critical care
 
 # References
 
+[miv-xlstm paper](https://csutora.com/miv-xlstm) <br>
 [MIMIC-IV on PhysioNet](https://physionet.org/content/mimiciv/3.0/)
